@@ -14,6 +14,6 @@ Sınıf | Öğrenci İsmi  | Numara
  3. Bilgici, Z. 2014. "On Yüz Bin Baloncuk!". TÜBİTAK Bilim Genç.
     http://bilimgenc.tubitak.gov.tr/makale/yuz-bin-baloncuk 
     Son erişim tarihi:22 Eylül 2014
- 4. Pale, U. 2010. "Soap Film". Faculty of Electrical Engineering and Computing, University of Zagreb            archive.iypt.org/.../2010_4_Soap_film_Croatia_UP_v2.doc
+ 4. Pale, U. 2010. "Soap Film". Faculty of Electrical Engineering and Computing, University of Zagreb            (archive.iypt.org/.../2010_4_Soap_film_Croatia_UP_v2.doc)
    Son erişim tarihi:16 Temmuz 2017
  5. Isenberg, C. 1978. The Science of Soap Films and Soap Bubbles. USA:Courier Corporation
